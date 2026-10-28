@@ -1,0 +1,3 @@
+﻿customer_id,reason_flagged,disposition,rationale
+C0002,STRUCTURING,CLOSED - LEGITIMATE,"Proceeds from property sale; sale and purchase agreement obtained, source of funds verified."
+C0003,VELOCITY,CLOSED - LEGITIMATE,Monthly payroll run for a 12-staff SME; reconciled to payroll register.

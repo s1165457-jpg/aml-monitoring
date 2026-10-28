@@ -1,0 +1,17 @@
+RULE ENGINE EVALUATION (customer level)
+=======================================================
+Injected suspicious customers : 21
+Customers flagged             : 23
+True positives                : 21
+False positives               : 2
+False negatives               : 0
+Precision                     : 91.3%
+Recall                        : 100.0%
+F1 score                      : 95.5
+
+Recall by typology:
+  DORMANT_ACTIVATION       3/3 caught
+  HIGH_RISK_JURISDICTION   3/3 caught
+  RAPID_IN_OUT             4/4 caught
+  STRUCTURING              8/8 caught
+  VELOCITY                 3/3 caught
